@@ -38,7 +38,6 @@ filtered_df = df[df["Vehicle type"].str.contains("2 Person|van", case=False, na=
 # df = pd.DataFrame(data, columns=["From", "To", "Inclusions", "Earliest Pick up", "Latest Drop off", "Vehicle type", "Rate", "Days allowed", "Extra days"])
 print(df)
 #########################
-# print the final tables with timestamp to plot in R later
 today = datetime.now()
 filename = os.path.join("data", f"{today.strftime('%Y-%m-%d_%H-%M-%S')}_rawdata.csv")
 if not os.path.exists('data'):

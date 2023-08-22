@@ -1,0 +1,12 @@
+From,To,Inclusions,Earliest Pick up,Latest Drop off,Vehicle type,Rate,Days allowed,Extra days
+San Francisco,Denver,"Inclusions: $150 gas allowance, Keep receipts",09 Sep,17 Sep,4 Person RV,$1.00per night,6,2
+Seattle,New York,"Inclusions: $250 gas allowance, keep receipts",13 Sep,17 Sep,2 Person Mini RV (no bathroom),$1.00per day,4,0
+Los Angeles,Seattle,,22 Aug,30 Aug,2 Person Mini RV (no bathroom),$1.00per day,5,3
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",20 Aug,25 Aug,6 Berth with Bathroom,$1.00per night,4,1
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",22 Aug,26 Aug,6 Berth with Bathroom,$1.00per night,2,2
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",17 Aug,24 Aug,6 Berth with Bathroom,$1.00per night,4,3
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",17 Aug,26 Aug,4 Person RV,$1.00per night,4,5
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",20 Aug,25 Aug,4 Person RV,$1.00per night,2,3
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",19 Aug,24 Aug,6 Berth with Bathroom,$1.00per night,3,2
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",22 Aug,25 Aug,4 Person RV,$1.00per night,3,0
+Las Vegas,San Francisco,"Inclusions: $100 gas allowance, Keep receipts",20 Aug,25 Aug,6 Berth with Bathroom,$1.00per night,4,1
